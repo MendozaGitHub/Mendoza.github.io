@@ -1,4 +1,4 @@
-Mendoza.github.io
+MendozaGitHub.github.io
 =================
 
 Public Site

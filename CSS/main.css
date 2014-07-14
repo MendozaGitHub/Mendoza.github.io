@@ -4,3 +4,15 @@ body {
 a {
 	text-decoration: none;
 }
+
+#wrapper {
+	max-width: 940px;
+	margin: 0 auto;
+	padding: 5%;
+	background: black;
+}
+
+#logo {
+	text-align: center;
+	margin: 0;
+}

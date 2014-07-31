@@ -1,0 +1,10 @@
+/* addendum to add background color*/
+
+body{
+  background-image: linear-gradient( rgb(20,92,143) 0%, rgb(0,152,214) 100%);
+    font-family: 'Adelle', Helvetica Neue, Helvetica, Arial, Sans-serif;
+    font-size: 13pt;
+    font-weight: bold;
+    line-height: 136%;
+    letter-spacing: 1px;
+}
